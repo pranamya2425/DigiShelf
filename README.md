@@ -50,8 +50,7 @@ To run this project locally, follow these steps:
 
 Contributions are welcome! Please feel free to open issues or submit pull requests.
 
-## License
+##Try it out here
 
-[Specify your license here, e.g., MIT License]
-```
+https://digi-shelf.vercel.app/
 
